@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace CorsoDevOps
 {
-    public class Class1
+    class Class3
     {
-        private string cognome;
-        private string nome;
-    }
     }
 }
