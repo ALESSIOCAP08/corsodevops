@@ -8,5 +8,6 @@ namespace CorsoDevOps
 {
     public class Class1
     {
+        private string cognome;
     }
 }
