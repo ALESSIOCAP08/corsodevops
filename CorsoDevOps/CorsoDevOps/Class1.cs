@@ -11,5 +11,4 @@ namespace CorsoDevOps
         private string cognome;
         private string nome;
     }
-   
 }
